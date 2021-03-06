@@ -1,0 +1,13 @@
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.exe
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.deps.json
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.runtimeconfig.json
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.runtimeconfig.dev.json
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.dll
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\bin\Debug\netcoreapp3.1\PuntoDeVenta.pdb
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.csprojAssemblyReference.cache
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.dll
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.pdb
+C:\Users\LEAN\Documents\Proyectos\PuntoDeVenta\PuntoDeVenta\PuntoDeVenta\obj\Debug\netcoreapp3.1\PuntoDeVenta.genruntimeconfig.cache
